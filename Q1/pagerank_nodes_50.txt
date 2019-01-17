@@ -1,0 +1,63 @@
+This homework only supports python versions 2.7, 3.5, 3.6 and 3.7 for testing warmup code and converting edge list
+Completed 1/50 iterations. 4.58922505379 seconds elapsed.
+Completed 2/50 iterations. 8.45955109596 seconds elapsed.
+Completed 3/50 iterations. 12.2732100487 seconds elapsed.
+Completed 4/50 iterations. 15.7643709183 seconds elapsed.
+Completed 5/50 iterations. 19.2663691044 seconds elapsed.
+Completed 6/50 iterations. 22.8371050358 seconds elapsed.
+Completed 7/50 iterations. 26.4784610271 seconds elapsed.
+Completed 8/50 iterations. 29.9890990257 seconds elapsed.
+Completed 9/50 iterations. 33.4197540283 seconds elapsed.
+Completed 10/50 iterations. 36.8228499889 seconds elapsed.
+Completed 11/50 iterations. 40.5928480625 seconds elapsed.
+Completed 12/50 iterations. 44.2092490196 seconds elapsed.
+Completed 13/50 iterations. 47.6613409519 seconds elapsed.
+Completed 14/50 iterations. 51.3843359947 seconds elapsed.
+Completed 15/50 iterations. 55.1223349571 seconds elapsed.
+Completed 16/50 iterations. 58.856746912 seconds elapsed.
+Completed 17/50 iterations. 62.6461350918 seconds elapsed.
+Completed 18/50 iterations. 66.302947998 seconds elapsed.
+Completed 19/50 iterations. 70.0121850967 seconds elapsed.
+Completed 20/50 iterations. 73.6776750088 seconds elapsed.
+Completed 21/50 iterations. 77.3689610958 seconds elapsed.
+Completed 22/50 iterations. 81.0603430271 seconds elapsed.
+Completed 23/50 iterations. 84.8636500835 seconds elapsed.
+Completed 24/50 iterations. 88.629144907 seconds elapsed.
+Completed 25/50 iterations. 92.3014540672 seconds elapsed.
+Completed 26/50 iterations. 95.9309771061 seconds elapsed.
+Completed 27/50 iterations. 99.5613889694 seconds elapsed.
+Completed 28/50 iterations. 103.163882971 seconds elapsed.
+Completed 29/50 iterations. 106.843466043 seconds elapsed.
+Completed 30/50 iterations. 110.589210033 seconds elapsed.
+Completed 31/50 iterations. 114.315680027 seconds elapsed.
+Completed 32/50 iterations. 118.025049925 seconds elapsed.
+Completed 33/50 iterations. 121.65543294 seconds elapsed.
+Completed 34/50 iterations. 125.531713009 seconds elapsed.
+Completed 35/50 iterations. 129.300879002 seconds elapsed.
+Completed 36/50 iterations. 133.054742098 seconds elapsed.
+Completed 37/50 iterations. 136.820118904 seconds elapsed.
+Completed 38/50 iterations. 140.552139044 seconds elapsed.
+Completed 39/50 iterations. 144.327701092 seconds elapsed.
+Completed 40/50 iterations. 148.078510046 seconds elapsed.
+Completed 41/50 iterations. 151.791796923 seconds elapsed.
+Completed 42/50 iterations. 155.5749259 seconds elapsed.
+Completed 43/50 iterations. 159.372907877 seconds elapsed.
+Completed 44/50 iterations. 163.130224943 seconds elapsed.
+Completed 45/50 iterations. 166.774806023 seconds elapsed.
+Completed 46/50 iterations. 170.443578959 seconds elapsed.
+Completed 47/50 iterations. 174.08800602 seconds elapsed.
+Completed 48/50 iterations. 177.72694993 seconds elapsed.
+Completed 49/50 iterations. 181.371629 seconds elapsed.
+Completed 50/50 iterations. 185.105604887 seconds elapsed.
+()
+node_id	score
+8737	0.000137749016026
+2914	0.000121460331077
+18964	8.49253485639e-05
+1220	7.34626487859e-05
+2409	6.93818358598e-05
+10029	6.75447595051e-05
+214538	6.25792575466e-05
+7343	5.91837992545e-05
+39295	5.5715803672e-05
+38283	5.55118996244e-05

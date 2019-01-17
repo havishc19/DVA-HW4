@@ -1,3 +1,7 @@
+ CSE 6242 / CX 4242: Data and Visual Analytics | Georgia Tech | Fall 2018
+Homework 4 : Scalable PageRank via Virtual Memory (MMap), Random Forest, SciKit Learn
+Prepared by Priyank Madria, Shruti Shinde, Michael Petrey, Vineet Pasupulety, Nilaksh Das, Siddharth Gulati, Neetha Ravishankar, Jennifer Ma, Mansi Mathur, Anmol Chhabria, Susanta Routray, Brendon Duprey, Kunal Agrawal, Keith Adkins, Fan Zhou, Arathi Arivayutham, Matthew Keezer, Svetlana Afanaseva, Sneha Venkatachalam, Matthew Hull, Polo Chau
+
 Submission Instructions and Important Notes:
 It is important that you read the following instructions carefully and also those about the deliverables at the end of each question or you may lose points.
 Always check to make sure you are using the most up-to-date assignment (version number at bottom right of this document).
@@ -278,3 +282,4 @@ Q3/
 	seizure_dataset.csv
 
 You must follow the naming convention specified above.
+
